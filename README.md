@@ -16,4 +16,11 @@
 ## 学习路线
 
 - [ ] 基础语法
+	- [ ] 00-basic
+	- [ ] 01-
+
+
+
+# 常用工具
   
+https://duckdb.org/install/?platform=macos&environment=cli
